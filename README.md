@@ -43,12 +43,12 @@ A passionate AIML engineer currently pursuing a degree in CSE(Data Science) at D
 
 ## GitHub Stats & Streaks
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KevalShah91&show_icons=true&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KevalShah91&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KevalShah91&show_icons=true&hide_border=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KevalShah91&hide_border=true&theme=radical)
 
 ## Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevalShah91&layout=compact&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevalShah91&layout=compact&hide_border=true&theme=radical)
 
 ## Profile Views
 
