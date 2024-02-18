@@ -13,11 +13,6 @@ A passionate AIML engineer currently pursuing a degree in CSE(Data Science) at D
 
 - [LinkedIn](linkedin.com/in/keval-shah-b30274262) 
 
-
-## Tech Stack
-
- Tensorflow | kears | NLP | NLTK | langchain | scikit-learn | Plotly | PandasC | CSS3 | HTML5 | Java | JavaScript | Python | Shell Script | Flask | jQuery | JWT | NPM | GitHub | React | MongoDB | MySQL | GIT | LINUX
-
  ## Tech Stack
 
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -46,3 +41,15 @@ A passionate AIML engineer currently pursuing a degree in CSE(Data Science) at D
 ![GIT](https://img.shields.io/badge/-GIT-F05032?style=flat-square&logo=git&logoColor=white)
 ![LINUX](https://img.shields.io/badge/-LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)
 
+## GitHub Stats & Streaks
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KevalShah91&show_icons=true&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KevalShah91&hide_border=true)
+
+## Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevalShah91&layout=compact&hide_border=true)
+
+## Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=KevalShah91&color=brightgreen)
