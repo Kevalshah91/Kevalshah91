@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi there! 👋 I'm Keval Shah
 
-<!--
-**Kevalshah91/Kevalshah91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate AIML engineer currently pursuing a degree in CSE(Data Science) at DJSCOE.
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working at DJS Racing as a Driverless Automation Team member.
+- 🌱 I’m currently learning AIML development and looking to collaborate on AIML projects.
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Kevalshah91).
+- 📫 Reach me through my email 👉 kevalshah091@gmail.com.
+- 📄 Know about my experiences on [FlowCV](https://flowcv.com/resume/29k19asu9j).
+- ⚡ Fun fact, I ♥ Sketching 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Socials
+
+- [LinkedIn](linkedin.com/in/keval-shah-b30274262) 
+
+
+## Tech Stack
+
+ Tensorflow | kears | NLP | NLTK | langchain | scikit-learn | Plotly | PandasC | CSS3 | HTML5 | Java | JavaScript | Python | Shell Script | Flask | jQuery | JWT | NPM | GitHub | React | MongoDB | MySQL | GIT | LINUX
