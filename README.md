@@ -7,11 +7,13 @@ A passionate AIML engineer currently pursuing a degree in CSE(Data Science) at D
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Kevalshah91).
 - 📫 Reach me through my email 👉 kevalshah091@gmail.com.
 - 📄 Know about my experiences on [FlowCV](https://flowcv.com/resume/29k19asu9j).
+- 🎥 Check out my YouTube channel: [YouTube](https://www.youtube.com/@KevalShah-iu9wt)
 - ⚡ Fun fact, I ♥ Sketching 
 
 ## Socials
 
-- [LinkedIn](linkedin.com/in/keval-shah-b30274262) 
+- [LinkedIn](linkedin.com/in/keval-shah-b30274262)
+  
 
  ## Tech Stack
 
@@ -40,6 +42,9 @@ A passionate AIML engineer currently pursuing a degree in CSE(Data Science) at D
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![GIT](https://img.shields.io/badge/-GIT-F05032?style=flat-square&logo=git&logoColor=white)
 ![LINUX](https://img.shields.io/badge/-LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-00599C?style=flat-square&logo=deep-learning&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 
 ## GitHub Stats & Streaks
 
