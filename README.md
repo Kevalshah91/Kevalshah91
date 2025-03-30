@@ -1,5 +1,3 @@
-<!-- Banner Image -->
-![Banner](https://source.unsplash.com/1600x400/?technology,ai)
 
 # Hi, I'm *Keval Shah* 🚀
 
@@ -22,28 +20,15 @@ I'm a passionate *AI/ML Engineer & Data Science Enthusiast* who loves turning co
   - 🤖 AI Boundary Exploration
 
 ### 🌐 Connect With Me
-
-<div align="center">
-  <a href="mailto:kevalshah091@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  
-  <a href="tel:+918286556644">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
-  </a>
-  
-  <a href="https://linkedin.com/in/keval-shah-b30274262">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  
-  <a href="https://github.com/Kevalshah91">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  
-  <a href="https://youtu.be/lhUxSyBY8kc?si=N-E0HhXR73IH3442">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
+<div align="left">
+    <p><strong>Mail:</strong> <a href="mailto:kevalshah091@gmail.com" style="color:black; text-decoration:underline;">kevalshah091@gmail.com</a></p>
+    <p><strong>Phone:</strong> <a href="tel:+918286556644" style="color:blue; text-decoration:underline;">+91 8286556644</a></p>
+    <p><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/keval-shah-b30274262" style="text-decoration:underline;">Keval Shah</a></p>
+    <p><strong>GitHub:</strong> <a href="https://github.com/Kevalshah91" style="text-decoration:underline;">Kevalshah91</a></p>
+    <p><strong>YouTube:</strong> <a href="https://youtu.be/lhUxSyBY8kc?si=N-E0HhXR73IH3442" style="text-decoration:underline;">Watch Demo Videos</a></p>
 </div>
+
+
 
 ### 📍 Location
 ![Mumbai, India](https://img.shields.io/badge/Mumbai-India-00A86B?style=for-the-badge&logo=googlemaps&logoColor=white)
