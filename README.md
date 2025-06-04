@@ -175,7 +175,4 @@ keval.say_hi()
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 
 ---
-
-**"The best way to predict the future is to create it with AI!"** 🤖✨
-
 </div>
