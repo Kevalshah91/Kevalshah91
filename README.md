@@ -1,161 +1,171 @@
-
-# Hi, I'm *Keval Shah* 🚀
-
-I'm a passionate *AI/ML Engineer & Data Science Enthusiast* who loves turning complex data into innovative solutions. Currently pursuing my B.Tech in CSE (Data Science) at DJ Sanghvi College of Engineering (CGPA: 8.64/10), I combine a love for cutting-edge tech with real-world impact.
-
-<p align="center">
-  <!-- Profile Views Badge -->
-  <img src="https://komarev.com/ghpvc/?username=Kevalshah91&color=blue" alt="Profile Views" />
-  <!-- GitHub Followers Badge -->
-  <img src="https://img.shields.io/github/followers/Kevalshah91?label=Followers&style=social" alt="GitHub Followers" />
-</p>
-## 👨‍💻 About Me
-
-### 🌟 Expertise & Interests
-- **Technologies:** Python, Computer Vision, Generative AI, Reinforcement Learning, Data Science
-- **Passion Areas:** 
-  - 🚀 Space Data Analytics
-  - 🛡️ Real-Time Safety Systems
-  - 💹 Financial Innovation
-  - 🤖 AI Boundary Exploration
-
-### 🌐 Connect With Me
-<div align="left">
-    <p><strong>Mail:</strong> <a href="mailto:kevalshah091@gmail.com" style="color:black; text-decoration:underline;">kevalshah091@gmail.com</a></p>
-    <p><strong>Phone:</strong> <a href="tel:+918286556644" style="color:blue; text-decoration:underline;">+91 8286556644</a></p>
-    <p><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/keval-shah-b30274262" style="text-decoration:underline;">Keval Shah</a></p>
-    <p><strong>GitHub:</strong> <a href="https://github.com/Kevalshah91" style="text-decoration:underline;">Kevalshah91</a></p>
-    <p><strong>YouTube:</strong> <a href="https://youtu.be/lhUxSyBY8kc?si=N-E0HhXR73IH3442" style="text-decoration:underline;">Watch Demo Videos</a></p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Kevalshah91/Kevalshah91/main/assets/neon-logo.gif" alt="Keval Shah Neon" width="400"/>
+  
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Welcome+to+my+AI%2FML+Universe!;I'm+Keval+Shah+-+Data+Science+Enthusiast;Turning+Data+into+Intelligent+Solutions" alt="Typing SVG" />
+  </h1>
+  
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
+## 🎯 About Me
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+🚀 **AI/ML Engineer & Data Science Enthusiast** passionate about transforming complex data into revolutionary solutions!
+
+- 🎓 **B.Tech in CSE (Data Science)** @ DJ Sanghvi College of Engineering
+- 📊 **CGPA: 8.64/10** - Consistently delivering excellence
+- 🧠 **Deep Learning Specialist** - Exploring the frontiers of neural networks
+- 🤖 **LLM Enthusiast** - Building intelligent conversational systems
+- ☁️ **Cloud ML Engineer** - Deploying scalable AI solutions
+- 🔬 **Research Focused** - Reinforcement Learning & Generative AI
+- 🤝 **Collaboration Ready** - Always excited for new challenges!
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🌐 Connect With Me
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/keval-shah-b30274262)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000)](https://youtube.com/@kevalshah-iu9wt?si=yO62coIRWTDt1dFr)
+[![Resume](https://img.shields.io/badge/Resume-00C851?style=for-the-badge&logo=google-drive&logoColor=white&labelColor=00C851)](https://flowcv.com/resume/29k19asu9j)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/Kevalshah91)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:kevalshah091@gmail.com)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🛠️ Technology Arsenal
+
+<div align="center">
+
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### 🗄️ Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+### 📊 Data Science & Analytics
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+
+### 🤖 Machine Learning & AI
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+
+### 🔤 NLP & LLMs
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-4285F4?style=for-the-badge&logo=nltk&logoColor=white)
+![Rasa](https://img.shields.io/badge/Rasa-5A17EE?style=for-the-badge&logo=rasa&logoColor=white)
+
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+### ☁️ Cloud & Deployment
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+
+### 🎮 Additional Skills
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kevalshah91&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kevalshah91&theme=radical&hide_border=true" alt="Streak Stats" />
+</div>
+
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevalshah91&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" />
+</div>
+
+### 📊 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Kevalshah91&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 
-### 📍 Location
-![Mumbai, India](https://img.shields.io/badge/Mumbai-India-00A86B?style=for-the-badge&logo=googlemaps&logoColor=white)
+## 🎯 Current Focus
 
+```python
+class KevalShah:
+    def __init__(self):
+        self.name = "Keval Shah"
+        self.role = "AI/ML Engineer"
+        self.current_focus = [
+            "Deep Learning Research",
+            "Large Language Models",
+            "Reinforcement Learning",
+            "MLOps & Cloud Deployment"
+        ]
+        self.interests = [
+            "Generative AI",
+            "Computer Vision", 
+            "Natural Language Processing",
+            "Data Engineering"
+        ]
+    
+    def say_hi(self):
+        print("Thanks for visiting! Let's build the future with AI together! 🚀")
 
+keval = KevalShah()
+keval.say_hi()
+```
 
-## 🛠 Tech Stack & Tools
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### Programming & Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm)
-![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=gnu-bash)
+## 🌟 Fun Facts
 
-### Data Analysis & Visualization
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-000000?style=flat-square&logo=plotly)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib)
-![QGIS](https://img.shields.io/badge/QGIS-238E23?style=flat-square&logo=QGIS)
+<div align="center">
+  
+🔥 **Passionate about turning coffee into code and data into insights!**  
+🎯 **Always exploring the latest in AI/ML research**  
+🌱 **Constantly learning and adapting to new technologies**  
+💡 **Believer in the power of data-driven decision making**  
+🚀 **Dream: Contributing to AGI development**
 
-### Machine Learning & AI
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv)
-![NLTK](https://img.shields.io/badge/NLTK-4EAA25?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-0052CC?style=flat-square)
-![Llama Models](https://img.shields.io/badge/Llama_Models-7D4698?style=flat-square)
-![Gen AI](https://img.shields.io/badge/Generative_AI-007ACC?style=flat-square)
-![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-FF4500?style=flat-square)
-
-### Robotics & IoT
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino)
-
-### Cloud & Databases
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase)
-![PineCone](https://img.shields.io/badge/PineCone-008080?style=flat-square)
-
-### Web Development & APIs
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)
-![TensorFlowJS](https://img.shields.io/badge/TensorFlowJS-FF6F00?style=flat-square&logo=tensorflow)
-
-### Game Development
-![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=flat-square)
-![CVZone](https://img.shields.io/badge/CVZone-5C3EE8?style=flat-square)
-
-### AI & Chatbots
-![Rasa](https://img.shields.io/badge/Rasa-5C3EE8?style=flat-square)
-
-### DevOps & Collaboration
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
-
-
-## 🚀 Projects & Innovations
-
-### *Lunar Surface Navigation System* (Feb 2025)
-- *Objective:* Leverage Chandrayaan-2 data to map safe paths on the Moon’s South Pole.
-- *Highlights:* Advanced image processing, terrain analysis, and multi-algorithm path planning (A*, RRT, PRM).
-
-### *Cyclist Safety System* (Feb 2025)
-- *Objective:* Enhance cyclist safety through real-time hazard detection.
-- *Highlights:* AI-driven detection using YOLO and Optical Flow; dynamic risk-based lane prioritization.
-
-### *Autonomous AI Agents for Stock Analysis* (Jan 2025)
-- *Objective:* Provide real-time financial insights and actionable investment recommendations.
-- *Highlights:* Streamlit dashboards, Yahoo Finance API integration, and autonomous market trend analysis.
-
-### *AI-Powered Study Assistant* (Oct 2024)
-- *Objective:* Redefine study routines with an intelligent study companion.
-- *Highlights:* RAG system for quizzes and flashcards, integrated with CLIP, LLaMA + Llava models, and TTS for video generation.
+</div>
 
 ---
 
-<p align="center">
-  <!-- GitHub Stats Cards -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Kevalshah91&show_icons=true&theme=radical" alt="Keval's GitHub Stats" />
-</p>
+<div align="center">
+  
+### 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=Kevalshah91&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevalshah91&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+### 🌟 Show some ❤️ by starring some repositories!
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kevalshah91&theme=radical" alt="GitHub Streak" />
-</p>
-
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 
 ---
 
-## 📚 Current Focus & Research
+**"The best way to predict the future is to create it with AI!"** 🤖✨
 
-- *Generative AI & LLMs:* Experimenting with cutting-edge language models and retrieval-augmented generation systems.
-- *Computer Vision & Reinforcement Learning:* Advancing autonomous navigation, hazard detection, and real-world AI applications.
-- *Data-Driven Innovation:* Merging advanced data science with next-gen algorithms to solve challenges in finance, education, and space exploration.
-
----
-
-## 🎯 Fun Facts & Inspirations
-
-- I'm an avid explorer—whether it’s delving into space exploration or innovating with AI in everyday life.
-- Hackathons fuel my creativity; each challenge is a stepping stone to a breakthrough idea.
-- "The only way to do great work is to love what you do." – Steve Jobs
-
----
-
-## 🤝 Let’s Connect!
-
-[![GitHub](https://img.shields.io/badge/GitHub-Kevalshah91-181717?style=for-the-badge&logo=github)](https://github.com/Kevalshah91)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Keval--Shah-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/keval-shah-b30274262)  
-[![Email](https://img.shields.io/badge/Email-kevalshah091@gmail.com-orange?style=for-the-badge&logo=gmail)](mailto:kevalshah091@gmail.com)  
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://youtu.be/lhUxSyBY8kc?si=N-E0HhXR73IH3442)
-
----
-
-## 🌟 Final Words
-
-Thanks for visiting my profile! I believe in continuously pushing the boundaries of technology, and I'm always eager to connect with fellow innovators. Let’s build the future of AI together.
-
-Happy Coding!
+</div>
