@@ -10,7 +10,7 @@
 
 ## 🎯 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/G2cpDFcKzAPMScb0MC/giphy.gif">
 
 🚀 **AI/ML Engineer & Data Science Enthusiast** passionate about transforming complex data into revolutionary solutions!
 
@@ -104,13 +104,14 @@
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevalshah91&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" />
 </div>
 
-### 📊 Contribution Graph
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### 📊 GitHub Activity
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Kevalshah91&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kevalshah91&theme=radical" width="100%" alt="GitHub Activity" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 
 ## 🎯 Current Focus
 
@@ -123,7 +124,8 @@ class KevalShah:
             "Deep Learning Research",
             "Large Language Models",
             "Reinforcement Learning",
-            "MLOps & Cloud Deployment"
+            "MLOps & Cloud Deployment",
+            "Computer Vision"
         ]
         self.interests = [
             "Generative AI",
@@ -133,7 +135,7 @@ class KevalShah:
         ]
     
     def say_hi(self):
-        print("Thanks for visiting! Let's build the future with AI together! 🚀")
+        print("Thanks for visiting! Let's build the future together! 🚀")
 
 keval = KevalShah()
 keval.say_hi()
