@@ -106,9 +106,17 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+
 ### 📊 GitHub Activity
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kevalshah91&theme=radical" width="100%" alt="GitHub Activity" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kevalshah91&theme=radical&exclude=stats" width="100%" alt="GitHub Activity Graph" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### 📊 Activity Timeline
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kevalshah91&theme=react-dark&hide_border=true&area=true&hide_title=true" width="100%" alt="GitHub Activity Graph" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
