@@ -15,7 +15,7 @@
 🚀 **AI/ML Engineer & Data Science Enthusiast** passionate about transforming complex data into revolutionary solutions!
 
 - 🎓 **B.Tech in CSE (Data Science)** @ DJ Sanghvi College of Engineering
-- 📊 **CGPA: 8.64/10** - Consistently delivering excellence
+- 📊 **CGPA: 8.77/10** - Consistently delivering excellence
 - 🧠 **Deep Learning Specialist** - Exploring the frontiers of neural networks
 - 🤖 **LLM Enthusiast** - Building intelligent conversational systems
 - ☁️ **Cloud ML Engineer** - Deploying scalable AI solutions
