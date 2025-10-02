@@ -30,7 +30,7 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/keval-shah-b30274262)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000)](https://youtube.com/@kevalshah-iu9wt?si=yO62coIRWTDt1dFr)
-[![Resume](https://img.shields.io/badge/Resume-00C851?style=for-the-badge&logo=google-drive&logoColor=white&labelColor=00C851)](https://flowcv.com/resume/29k19asu9j)
+[![Resume](https://img.shields.io/badge/Resume-00C851?style=for-the-badge&logo=google-drive&logoColor=white&labelColor=00C851)](https://drive.google.com/file/d/1X2VroDUsNMdVRPzbv50WAJRTChiLKwgG/view?usp=sharing)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/Kevalshah91)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:kevalshah091@gmail.com)
 
