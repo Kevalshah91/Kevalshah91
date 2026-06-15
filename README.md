@@ -15,7 +15,7 @@
 🚀 **AI/ML Engineer & Data Science Enthusiast** passionate about transforming complex data into revolutionary solutions!
 
 - 🎓 **B.Tech in CSE (Data Science)** @ DJ Sanghvi College of Engineering
-- 📊 **CGPA: 8.77/10** - Consistently delivering excellence
+- 📊 **CGPA: 8.83/10** - Consistently delivering excellence
 - 🧠 **Deep Learning Specialist** - Exploring the frontiers of neural networks
 - 🤖 **LLM Enthusiast** - Building intelligent conversational systems
 - ☁️ **Cloud ML Engineer** - Deploying scalable AI solutions
@@ -30,7 +30,7 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/keval-shah-b30274262)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000)](https://youtube.com/@kevalshah-iu9wt?si=yO62coIRWTDt1dFr)
-[![Resume](https://img.shields.io/badge/Resume-00C851?style=for-the-badge&logo=google-drive&logoColor=white&labelColor=00C851)](https://drive.google.com/file/d/1lcrGkC8ZWDRmQDWJkKxzahHEpX9EMaGH/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-00C851?style=for-the-badge&logo=google-drive&logoColor=white&labelColor=00C851)](https://drive.google.com/file/d/1g_St7cdHsOHXIGkhr9nBOdk2dtS7Y0Qr/view?usp=sharing)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/Kevalshah91)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:kevalshah091@gmail.com)
 
